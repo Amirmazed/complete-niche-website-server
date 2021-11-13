@@ -8,4 +8,5 @@
 * Any registered user can put their reviews about service. Those reviews are shown in the home page.
 * On the My orders page the logged in user can see only his/her orders. If the user wants he/she can cancel order anytime. A confirmation message will pop up before that.
 * I have used sppiners in the private route pages. Which means reloading in those pages won't redirect user to the login page
+* I have used .env file to hide informations, and git ignore aswell
 * Order status is shown in the My orders page, the admin can update the status of a particular order and users can monitor this visiting the My orders page. This website is built with react-bootstrap.
