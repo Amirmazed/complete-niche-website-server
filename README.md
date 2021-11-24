@@ -10,3 +10,7 @@
 * I have used sppiners in the private route pages. Which means reloading in those pages won't redirect user to the login page
 * I have used .env file to hide informations, and git ignore aswell
 * Order status is shown in the My orders page, the admin can update the status of a particular order and users can monitor this visiting the My orders page. This website is built with react-bootstrap.
+
+
+client-site- https://github.com/Amirmazed/complete-niche-website-client
+live website- https://doctors-portal-3af2f.web.app/
